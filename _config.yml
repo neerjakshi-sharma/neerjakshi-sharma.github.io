@@ -2,7 +2,7 @@ title:              Neerjakshi Sharma Blogs
 email:              neerjakshi.sharma@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Neerjakshi Sharma
-baseurl:            "/neerjakshisharma" ##startbootstrap-clean-blog-jekyll
+baseurl:            "/" ##startbootstrap-clean-blog-jekyll
 url:                "https://neerjakshi-sharma.github.io"
 
 # Social Profiles
